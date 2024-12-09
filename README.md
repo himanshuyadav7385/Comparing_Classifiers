@@ -17,6 +17,9 @@ During these phone campaigns, an attractive long-term deposit application, with 
 
 **Details of each feature is availabe in Jupyter file**
 
+**measure of success**
+Based on business requirement and imbalance of data ( in terms of number of 'yes' and 'no') I considered **ROC-AUC** as best measure when comparing the classifiers. 
+
 **Analysis**
 Since there were significant number of people were contacted for the first time it made sense to plit the data into "First time customers" and "existing cutomers" as different features will have different impact in both scenarios
 - For both the data set 
