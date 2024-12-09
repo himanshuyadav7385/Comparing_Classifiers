@@ -45,7 +45,7 @@ Existing customers Best parameters
 2        Decision Tree  0.819775  
 3                  SVM  0.799589
 
-[![Existing_customers_ROC.png]
+![Existing customer](Existing_customers_ROC.png)
 
 
 New customers Best parameters
@@ -60,7 +60,7 @@ Model Performance Summary:
 2          Decision Tree  0.720967  
 3  SVM (Smaller Dataset)  0.560122
 
-[![New_customers_ROC.png]
+![New customer](New_customers_ROC.png)
 
 
 #### Conclusion
