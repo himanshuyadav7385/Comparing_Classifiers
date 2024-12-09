@@ -45,6 +45,9 @@ Existing customers Best parameters
 2        Decision Tree  0.819775  
 3                  SVM  0.799589
 
+[![Existing_customers_ROC.png]
+
+
 New customers Best parameters
 -     KNN - Best k: 30
 -     Logistic Regression - {'C': 0.01, 'penalty': 'l2', 'solver': 'lbfgs'}
@@ -56,6 +59,8 @@ Model Performance Summary:
 1    Logistic Regression  0.676134  
 2          Decision Tree  0.720967  
 3  SVM (Smaller Dataset)  0.560122
+
+[![New_customers_ROC.png]
 
 
 #### Conclusion
